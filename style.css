@@ -4,7 +4,49 @@
 	border: 0;
 }
 
-body {
+#wrapper {
 	width: 841mm;
 	height: 1188mm;
+	padding: 10mm;
+	box-sizing: border-box;
+}
+
+header {
+	color: #3C7386;
+	border-bottom: 8mm solid #3C7386;
+	font-size: 50mm;
+	margin-top: 30mm;
+	clear: both;
+	font-family: Consolas;
+}
+
+ul {
+	list-style-position: inside;
+	margin: 10mm;
+}
+
+ul li {
+	font-size: 20mm;
+	text-align: justify;
+	font-family: Monaco;
+}
+
+.float-image {
+	float: right;
+	margin: 8mm;
+	padding: 10mm;
+	width: 280mm;
+	overflow: hidden;
+	background-color: #DDDDDD;
+	border: 2mm dotted black;
+}
+
+.float-image img {
+	width: 280mm;
+}
+
+.float-image .desc {
+	font-size: 15mm;
+	font-style: italic;
+	font-family: Monaco;
 }
