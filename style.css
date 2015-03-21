@@ -20,6 +20,16 @@ header {
 	background: linear-gradient(black, white);
 }
 
+.lead {
+	color: #121c1e;
+	font-size: 45mm;
+	margin-top: 0mm;
+	clear: both;
+	text-align: center;
+	font-family: Consolas;
+	font-weight: normal;
+}
+
 header img {
 	width: 50%;
 	display: block;
