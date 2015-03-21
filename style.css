@@ -33,6 +33,7 @@ header {
 header img {
 	width: 50%;
 	display: block;
+	padding-top: 10mm;
 	margin-left: auto;
 	margin-right: auto;
 }
