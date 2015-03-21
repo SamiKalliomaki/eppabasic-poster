@@ -54,6 +54,10 @@ h1 {
 	font-weight: normal;
 }
 
+.no-top-margin {
+	margin-top: 0;
+}
+
 ul {
 	list-style-position: inside;
 }
