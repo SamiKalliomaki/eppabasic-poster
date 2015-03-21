@@ -7,9 +7,29 @@
 #wrapper {
 	width: 841mm;
 	height: 1188mm;
-	padding: 10mm;
 	box-sizing: border-box;
 	border: 1px solid #000;
+}
+
+header {
+	background-color: black;
+}
+
+.gradient {
+	height: 10mm;
+	background: linear-gradient(black, white);
+}
+
+header img {
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.content {
+	padding: 10mm;
 }
 
 h1 {
@@ -31,13 +51,6 @@ ul li, p {
 	font-size: 20mm;
 	text-align: justify;
 	font-family: Monaco;
-}
-
-header img {
-	width: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .columns {
