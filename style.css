@@ -26,10 +26,14 @@ ul {
 	margin: 10mm;
 }
 
-ul li {
+ul li, p {
 	font-size: 20mm;
 	text-align: justify;
 	font-family: Monaco;
+}
+
+.columns {
+	-webkit-column-count: 2;
 }
 
 .float-image {
