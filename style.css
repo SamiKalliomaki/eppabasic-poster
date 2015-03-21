@@ -22,12 +22,13 @@ header {
 
 .lead {
 	color: #121c1e;
-	font-size: 45mm;
+	font-size: 30mm;
 	margin-top: 0mm;
 	clear: both;
 	text-align: center;
 	font-family: Consolas;
 	font-weight: normal;
+	font-style: italic;
 }
 
 header img {
