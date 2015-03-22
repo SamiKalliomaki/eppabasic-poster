@@ -22,7 +22,7 @@ header {
 
 .lead {
 	color: #121c1e;
-	font-size: 30mm;
+	font-size: 28mm;
 	margin-top: 0mm;
 	clear: both;
 	text-align: center;
@@ -32,7 +32,7 @@ header {
 }
 
 header img {
-	width: 40%;
+	width: 50%;
 	display: block;
 	padding-top: 10mm;
 	margin-left: auto;
@@ -47,8 +47,8 @@ header img {
 h1 {
 	color: #3C7386;
 	border-bottom: 8mm solid #3C7386;
-	font-size: 40mm;
-	margin-top: 20mm;
+	font-size: 35mm;
+	margin-top: 25mm;
 	clear: both;
 	font-family: Consolas;
 	font-weight: normal;
@@ -80,6 +80,7 @@ ul li, p {
 .float-image {
 	float: right;
 	margin: 8mm;
+	margin-left: 18mm;
 	padding: 10mm;
 	width: 280mm;
 	overflow: hidden;
