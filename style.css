@@ -24,7 +24,7 @@ header {
 	color: black;
 	font-size: 40mm;
 	margin-top: 10mm;
-	margin-bottom: 30mm;
+	margin-bottom: 40mm;
 	clear: both;
 	text-align: center;
 	font-family: Consolas;
@@ -44,14 +44,21 @@ header img {
 	padding: 10mm;
 }
 
-h1 {
+h1, h2 {
 	color: #3C7386;
 	border-bottom: 5mm solid #3C7386;
-	font-size: 30mm;
-	margin-top: 60mm;
+	margin-top: 75mm;
 	clear: both;
 	font-family: Consolas;
 	font-weight: normal;
+}
+
+h1 {
+	font-size: 30mm;
+}
+
+h2 {
+	font-size: 20mm;
 }
 
 .no-top-margin {
@@ -71,6 +78,10 @@ ul li, p {
 	margin: 5mm 0;
 	text-align: justify;
 	font-family: Monaco;
+}
+
+.small-text {
+	font-size: 15mm;
 }
 
 .columns {
