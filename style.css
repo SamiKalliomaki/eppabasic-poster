@@ -47,7 +47,7 @@ header img {
 h1, h2 {
 	color: #3C7386;
 	border-bottom: 5mm solid #3C7386;
-	margin-top: 75mm;
+	
 	clear: both;
 	font-family: Consolas;
 	font-weight: normal;
@@ -55,10 +55,12 @@ h1, h2 {
 
 h1 {
 	font-size: 30mm;
+	margin-top: 75mm;
 }
 
 h2 {
 	font-size: 20mm;
+	margin-top: 100mm;
 }
 
 .no-top-margin {
