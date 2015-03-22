@@ -21,9 +21,9 @@ header {
 }
 
 .lead {
-	color: #121c1e;
-	font-size: 28mm;
-	margin-top: 0mm;
+	color: black;
+	font-size: 40mm;
+	margin-top: 10mm;
 	margin-bottom: 30mm;
 	clear: both;
 	text-align: center;
@@ -47,7 +47,7 @@ header img {
 h1 {
 	color: #3C7386;
 	border-bottom: 5mm solid #3C7386;
-	font-size: 40mm;
+	font-size: 30mm;
 	margin-top: 60mm;
 	clear: both;
 	font-family: Consolas;
