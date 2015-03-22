@@ -32,9 +32,9 @@ header {
 }
 
 header img {
-	width: 50%;
+	height: 150mm;
 	display: block;
-	padding-top: 10mm;
+	padding: 15mm 0; 
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -46,7 +46,7 @@ header img {
 
 h1 {
 	color: #3C7386;
-	border-bottom: 8mm solid #3C7386;
+	border-bottom: 5mm solid #3C7386;
 	font-size: 40mm;
 	margin-top: 60mm;
 	clear: both;
