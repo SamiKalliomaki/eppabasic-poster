@@ -81,6 +81,11 @@ ul li, p {
 	font-family: Monaco;
 }
 
+ul li {
+	padding-left: 1em;
+	text-indent: -0.9em;
+}
+
 .small-text {
 	font-size: 15mm;
 }
