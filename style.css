@@ -95,7 +95,7 @@ ul li {
 	-webkit-column-gap: 30mm;
 }
 
-.float-image {
+.float-image, .abstract-space {
 	float: right;
 	margin: 13mm;
 	margin-left: 18mm;
@@ -104,6 +104,11 @@ ul li {
 	overflow: hidden;
 	background-color: #DDDDDD;
 	border: 2mm dotted black;
+}
+
+.abstract-space {
+	width: 230mm;
+	height: 300mm;
 }
 
 .float-image img {
