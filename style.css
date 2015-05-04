@@ -8,6 +8,7 @@
 	width: 841mm;
 	height: 1188mm;
 	box-sizing: border-box;
+	border: 1px solid black;
 }
 
 header {
@@ -54,7 +55,7 @@ h1, h2 {
 
 h1 {
 	font-size: 30mm;
-	margin-top: 75mm;
+	margin-top: 90mm;
 }
 
 h2 {
