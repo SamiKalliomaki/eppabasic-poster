@@ -115,3 +115,8 @@ ul li {
 	font-style: italic;
 	font-family: Monaco;
 }
+
+.footnote {
+	font-size: 10mm;
+	float: right;
+}
