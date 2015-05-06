@@ -39,6 +39,19 @@ header img {
 	margin-right: auto;
 }
 
+header span {
+	height: 150mm;
+	display: block;
+	padding: 15mm 0;
+	margin-left: auto;
+	margin-right: auto;
+
+	font-family: Consolas;
+	color: #47e1ff; /* 98e0ff */
+	text-align: center;
+	font-size: 120mm;
+}
+
 
 .content {
 	padding: 10mm;
